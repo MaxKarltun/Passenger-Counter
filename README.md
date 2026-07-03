@@ -1,33 +1,57 @@
-## Passenger Counter
-__________________________________________________________________________________________________________________________________________________________
-## User Story 
+# 🚆 Passenger Counter
 
-As a user i want to check how many people enter and exit my establishment. This application allows for counting and keeping track of head count.
+A sleek, beginner-friendly JavaScript app that tracks how many people enter a space in real time.
 
-__________________________________________________________________________________________________________________________________________________________
+Whether you’re managing a small shop, event venue, or waiting area, **Passenger Counter** helps you keep a fast and simple headcount with a clean interface.
 
-## Passenger Counter App
-> Simple blog JS counter app
+## 🌟 Why this project is cool
 
+- **Real-world utility** – great for stores, classrooms, and events
+- **Instant interaction** – increment and save counts with one click
+- **Beginner-to-portfolio ready** – simple concept, polished execution
+- **Deployed live** – test it directly in your browser
 
-1.  This is a demonstration of a  human detection, tracking and counting system built using deep learning based computer vision. For human detection <a href="https://karltunmoreno.github.io/Passenger-Counter/" target="_blank">Pedrestron</a> model has been used.
-It can keep the count of peple who passed a line in each direction. Update or refresh and start over on the count.
+## ✨ Features
 
-____________________________________________________________________________________________________________________________________________________________
- 
-## Tech Used 
+- ➕ Increment current passenger/customer count
+- 💾 Save previous counts for quick reference
+- 🔄 Reset on page refresh for a fresh session
+- 📱 Lightweight, responsive front-end experience
 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?logo=html5&logoColor=white&style=for-the-badge)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?logo=css3&logoColor=white&style=for-the-badge)
+## 🧰 Built With
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&color=d1b01f)
-__________________________________________________________________________________________________________________________________________________
+- **HTML5**
+- **CSS3**
+- **JavaScript (Vanilla JS)**
 
+## 🚀 Live Demo
 
+👉 https://maxkarltun.github.io/Passenger-Counter/
 
-![Ss](https://karltunmoreno.github.io/My-Portfolio/assets/images/IMG-9481.jpg)
+## 📸 Preview
 
-______________________________________________________________________________________________________________________________________________--
+![Passenger Counter Preview](https://karltunmoreno.github.io/My-Portfolio/assets/images/IMG-9481.jpg)
 
-## Link
-https://maxkarltun.github.io/Passenger-Counter/
+## 🛠️ Run Locally
+
+1. Clone the repository
+   ```bash
+   git clone https://github.com/MaxKarltun/Passenger-Counter.git
+   ```
+2. Open the project folder
+3. Launch `index.html` in your browser
+
+## 💡 Future Improvements
+
+- Add a **decrement** button for exits
+- Persist count using **localStorage**
+- Add daily analytics/history view
+- Improve accessibility and keyboard support
+
+## 👤 Author
+
+Created by [@MaxKarltun](https://github.com/MaxKarltun)
+
+---
+
+If you like this project, consider giving it a ⭐ on GitHub!
