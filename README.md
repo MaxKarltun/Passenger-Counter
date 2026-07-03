@@ -30,7 +30,7 @@ Whether you’re managing a small shop, event venue, or waiting area, **Passenge
 
 ## 📸 Preview
 
-![Passenger Counter Preview](https://karltunmoreno.github.io/My-Portfolio/assets/images/IMG-9481.jpg)
+
 
 ## 🛠️ Run Locally
 
