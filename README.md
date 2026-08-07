@@ -4,6 +4,11 @@ A sleek, beginner-friendly JavaScript app that tracks how many people enter a sp
 
 Whether you’re managing a small shop, event venue, or waiting area, **Passenger Counter** helps you keep a fast and simple headcount with a clean interface.
 
+
+
+![App Screenshot](PC.png)
+
+
 ## 🌟 Why this project is cool
 
 - **Real-world utility** – great for stores, classrooms, and events
